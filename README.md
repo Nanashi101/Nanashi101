@@ -6,9 +6,10 @@
   [![jael-mor's 42 stats](https://badge.mediaplus.ma/binary/jael-mor)](https://github.com/oakoudad/badge42)
 
   ---
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulfberht101&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulfberht101)](https://github.com/anuraghazra/github-readme-stats)
-
   
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulfberht101&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulfberht101&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+  |:-:|:-:|
+
   ---
   
   <h1 align="center">Let's connect</h1>
