@@ -15,7 +15,7 @@
   
 <p align="center">
 <a href="https://github.com/ulfberht101">
- <img src="/images/github.png" width="40" />
+ <img src="/images/github-.png" width="40" />
 </a>
 <a href="https://twitter.com/Ulfberht101">
  <img src="/images/twitter.png" width="40"/>
