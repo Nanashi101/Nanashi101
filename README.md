@@ -6,7 +6,9 @@
   [![jael-mor's 42 stats](https://badge.mediaplus.ma/binary/jael-mor)](https://github.com/oakoudad/badge42)
 
   ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulfberht&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| [![ulfberht's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulfberht101&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/ulfberht101?tab=repositories) | [![ulfberht's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulfberht101&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ulfberht101?tab=repositories) |
+|:-:|:-:|
+
   
   ---
   
