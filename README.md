@@ -8,8 +8,8 @@
   ---
   
  | [![Jaafar's GitHub stats](https://github-readme-stats.vercel.app/api
-  username=Nanashi101&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/Nanashi101?tab=repositories) | [![Jaafar's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashi101&layout=compact&hide_border=true&theme=dracula)](https://github.com/Nanashi101?tab=repositories)|
-|:-:|
+  username=Nanashi101&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/Nanashi101?tab=repositories) |
+  |[![Jaafar's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashi101&layout=compact&hide_border=true&theme=dracula)](https://github.com/Nanashi101?tab=repositories)
 
   ---
   
