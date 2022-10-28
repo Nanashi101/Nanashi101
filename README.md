@@ -7,9 +7,9 @@
 
   ---
   
-| <a href="https://github-readme-stats.vercel.app/api?username=Nanashi101&count_private=true&show_icons=true">
+| <a href="https://github-readme-stats.vercel.app/api?username=Nanashi101&theme=tokyonight&count_private=true&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanashi101&count_private=true&show_icons=true" alt="Jaafar's github stats" />
-</a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulfberht101&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+</a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashi101&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
   |:-:|:-:|
 
   ---
