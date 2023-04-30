@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 , I'm Jaafar El-Morabit. You can call me Jeffry</h1>
+<h1 align="center">Hi there 👋 , I'm Jaafar El-Morabit.</h1>
 
 
 <div align="center">
